@@ -46,6 +46,8 @@ Final project Team 6
 - 이소현 https://github.com/sohyuneeee <br>
 - 박세진 https://github.com/codesejin <br>
 
+<br>
+
 🪄 FE : <br>
 
 - 이태권 https://github.com/momoco-git <br>
